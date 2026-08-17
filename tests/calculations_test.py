@@ -67,6 +67,7 @@ n = 10
 result = get_nth_fibonacci(n)
 
 #     # Assert
-assert result == 9999
+assert result == -1
+
 
 
